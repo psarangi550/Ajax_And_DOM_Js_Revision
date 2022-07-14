@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Ajax_in_depth/.idea/Ajax_in_depth.iml" filepath="$PROJECT_DIR$/../Ajax_in_depth/.idea/Ajax_in_depth.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javascript_es6.iml" filepath="$PROJECT_DIR$/.idea/javascript_es6.iml" />
     </modules>
   </component>
