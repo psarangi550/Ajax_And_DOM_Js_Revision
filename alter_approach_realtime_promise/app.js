@@ -44,8 +44,9 @@ let getEmployee=()=>{
 
 // getEmployee()
 
-createEmployee({id:103,name:"gundu",sal:80000}).then(()=>{
-    getEmployee()
-}).catch((err)=> {
+createEmployee({id:103,name:"gundu",sal:80000}).then(
+    getEmployee
+    // getEmployee()
+).catch((err)=> {
     console.log(err)
 })

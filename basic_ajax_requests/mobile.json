@@ -1,0 +1,14 @@
+[
+  {
+    "id": 101,
+    "name": "rika",
+    "sal": 50000,
+    "address": "bangalore"
+  },
+  {
+    "id": 102,
+    "name": "abismruta",
+    "sal": 60000,
+    "address": "bangalore"
+  }
+]
